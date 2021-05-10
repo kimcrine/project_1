@@ -24,7 +24,7 @@
     
 -Using this data, we calculated the Lottery Retailer Per Capita by dividing the count of retailer per borough by the population of each borough.
 
-**This data shows that Manhattan and Staten Island have the highest Lottery Retailers Per Capita 
+****This data shows that Manhattan and Staten Island have the highest Lottery Retailers Per Capita. **
 
 ## 2. What is the relationship between average income and lottery sales in NYC?
 
@@ -32,17 +32,17 @@
 
 -We the created the Poverty Rate graph to compare to the Lottery Retailer per Capita graph.
 
-**These charts show some correlation. The Manhattan bars are highest in both charts, but the rest of the boroughs do not correlate
+**These charts show some correlation. The Manhattan bars are highest in both charts, but the rest of the boroughs do not correlate.
 
-## What is the relationship between poverty rate and lottery sales in NYC?
+## 3. What is the relationship between poverty rate and lottery sales in NYC?
 
 -To create graphs, we merged the cleaned Lottery data and the Census data.
 
 -Using this data, we also found the poverty rate by dividing each poverty count by population per borough.
 
-**These charts showed little to no correlation
+**These charts showed little to no correlation.
 
-## 3. What is the relationship between crime rate and lottery sales in NYC?
+## 4. What is the relationship between crime rate and lottery sales in NYC?
 
 - An initial look at the crime dataset, which is reported by borough and precinct, shows totals for the three categories (violation, misdemeanor, and felony) fairly representative of population. Looking at crime rate per 100,000 people shows some differences based on borough.
 - 
