@@ -24,7 +24,7 @@
     
 -Using this data, we calculated the Lottery Retailer Per Capita by dividing the count of retailer per borough by the population of each borough.
 
-****This data shows that Manhattan and Staten Island have the highest Lottery Retailers Per Capita. **
+**This data shows that Manhattan and Staten Island have the highest Lottery Retailers Per Capita. **
 
 ## 2. What is the relationship between average income and lottery sales in NYC?
 
