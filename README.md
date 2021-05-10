@@ -1,14 +1,14 @@
 # Summary
 ## Where in NYC are lottery retailers most found? 
--First we read the NYS Lottery Retailer data
+-First we read in the NYS Lottery Retailer data.
 
--We then had to clean the data to only reflect the NYC zipcodes
+-We then had to clean the data to only reflect the NYC zipcodes.
 
--We then added boroughs to their respective zip codes
+-We then added boroughs to their respective zip codes.
 
--From this cleaned data set, we got the count of Lottery Retailers per borough
+-From this cleaned data set, we got the count of Lottery Retailers per borough.
 
--Then created bar chart
+-Then created bar charts.
 
 -We used the Census API to find the following fields for NYC:
 
@@ -28,17 +28,17 @@
 
 ## What is the relationship between average income and lottery sales in NYC?
 
--We then created the Income per Capita graph to compare to the Lottery Retailer Per Capita graph
+-We then created the Income per Capita graph to compare to the Lottery Retailer Per Capita graph.
 
--We the created the Poverty Rate graph to compare to the Lottery Retailer per Capita graph
+-We the created the Poverty Rate graph to compare to the Lottery Retailer per Capita graph.
 
 **These charts show some correlation. The Manhattan bars are highest in both charts, but the rest of the boroughs do not correlate
 
 ## What is the relationship between poverty rate and lottery sales in NYC?
 
--To create graphs, we merged the cleaned Lottery data and the Census data
+-To create graphs, we merged the cleaned Lottery data and the Census data.
 
--Using this data, we also found the poverty rate by dividing each poverty count by population per borough
+-Using this data, we also found the poverty rate by dividing each poverty count by population per borough.
 
 **These charts showed little to no correlation
 
