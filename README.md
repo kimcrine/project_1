@@ -11,6 +11,7 @@
 -Then created bar chart
 
 -We used the Census API to find the following fields for NYC:
+
     -Population
     
     -Household Income
